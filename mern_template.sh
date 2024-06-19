@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variables for the script
-REPO_URL="https://github.com/HarshSharma20503/Mern_Auth_Email_Template/"
-CLONE_DIR="Mern_Auth_Email_Template"
+REPO_URL="https://github.com/sparshkumar007/Mern_template/"
+CLONE_DIR="Mern_template"
 NEW_PROJECT_NAME="$1"
 
 # Check if project name is provided
